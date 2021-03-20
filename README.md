@@ -8,6 +8,7 @@
 <p>W katologu resourses/mapyrówniesz szablon pokazujący obręby mapy.</p>
 <p>Pierwsza linijka to czas levelu.</p>
 <p>W obrębie mapy można umieszczć odpowiednje litery by ją stworzyć. </p>
+<img src="Labirynt/resoures/mapa.png" alt=mapa>
 <p>Legenda:</p>
 <p>G - gracz (może być tylko jeden)</p>
 <p>m - mury</p>
